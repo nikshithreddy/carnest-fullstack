@@ -1,0 +1,23 @@
+# Ignore the virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.so
+*.pyo
+*.pyd
+db.sqlite3
+.env
+
+# VSCode settings folder
+.vscode/
+
+# Ignore the .env file if you're using one for environment variables
+.env
